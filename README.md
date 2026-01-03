@@ -23,33 +23,25 @@ Soy estudiante apasionado por la **ciberseguridad** con enfoque en análisis de 
 
 ## 🛡️ Stack Tecnológico
 
-```text
-Lenguajes:       Python  |  JavaScript  |  Java
-Frontend:       React   |  TypeScript
-Backend:        Node. js |  Django
-Databases:      SQL      | Mongodb
-Seguridad:      SAST    |  Pentesting  |  Análisis de Vulnerabilidades
-```
-
----
-
-## 📊 Estadísticas de GitHub
-
 <div align="center">
 
-<a href="https://github.com/Luis000923">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? username=Luis000923&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel. app/api/top-langs/? username=Luis000923&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
-</a>
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes** | `Python` `JavaScript` `Java` |
+| **Frontend** | `React` `TypeScript` |
+| **Backend** | `Node.js` `Django` |
+| **Databases** | `SQL` `MongoDB`  |
+| **Seguridad** | `SAST` `Pentesting` `Análisis de Vulnerabilidades` |
 
 </div>
-
----
 
 ## 🚀 Proyecto Destacado
 
 ### 🔒 [secure-scan](https://github.com/Luis000923/secure-scan)
 Herramienta de análisis estático de seguridad (SAST) en desarrollo continuo para identificar vulnerabilidades en código fuente. 
+
+### 👾 [Web_security_scanner](https://github.com/Luis000923/Web_security_scanner)
+Web Security Scanner es una herramienta de línea de comandos diseñada para realizar pruebas básicas de seguridad en sitios web.
 
 ---
 
