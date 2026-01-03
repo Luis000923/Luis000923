@@ -37,11 +37,10 @@ Seguridad:      SAST    |  Pentesting  |  Análisis de Vulnerabilidades
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luis000923&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Luis000923&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis000923&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
+<a href="https://github.com/Luis000923">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? username=Luis000923&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=00ff00"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel. app/api/top-langs/? username=Luis000923&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=00ff00"/>
+</a>
 
 </div>
 
@@ -67,7 +66,3 @@ Herramienta de análisis estático de seguridad (SAST) en desarrollo continuo pa
 <div align="center">
 
 ### 👾 *"La mejor defensa es conocer el ataque"* 👾
-
-![Profile Views](https://komarev.com/ghpvc/?username=Luis000923&color=00ff00&style=flat-square)
-
-</div>
