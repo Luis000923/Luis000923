@@ -1,60 +1,45 @@
-<div align="center">
+# Luis Ernesto Galdámez Vides
 
-# 👾 Hola, soy §§L§§
+**Analista Junior de Ciberseguridad · Automatización con Python · AppSec**
+*Junior Cybersecurity Analyst · Python Automation · Application Security*
 
-### 🔐 Estudiante de Redes y Ciberseguridad
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Seguridad+Ofensiva+%7C+Pentesting;An%C3%A1lisis+SAST;Optimizaci%C3%B3n+de+C%C3%B3digo;Exploraci%C3%B3n+de+Vulnerabilidades" alt="Typing SVG" />
-
-</div>
+📍 La Libertad, El Salvador · 🎓 Técnico en Redes y Ciberseguridad, UEES (2026) · Diplomado en Ciberseguridad
 
 ---
 
-## 🎯 Sobre mí
+## Sobre mí
 
-Soy estudiante apasionado por la **ciberseguridad** con enfoque en análisis de vulnerabilidades y optimización de proyectos. Me especializo en explotar vulnerabilidades de forma ética y analizar código en busca de mejoras de seguridad.
+Estudiante de Redes y Ciberseguridad. Construyo herramientas de línea de comandos que automatizan la detección de vulnerabilidades en aplicaciones web y en código fuente, con pruebas automatizadas y CI/CD. Busco mi primera posición junior en seguridad de aplicaciones, automatización de seguridad o análisis de seguridad.
 
-- 🔍 Actualmente aprendiendo: **Administración de Redes, Pentesting Web y Análisis SAST**
-- 🛠️ Trabajando en: **[secure-scan](https://github.com/Luis000923/secure-scan)** - Mi herramienta de análisis SAST
-- 🎓 Objetivo: **Ingeniero en Ciberseguridad**
-- 🤝 Abierto a: **Colaboraciones y aprendizaje continuo**
+*Student in Networking and Cybersecurity. I build CLI tools that automate vulnerability detection in web applications and source code, backed by automated tests and CI/CD. Looking for a junior role in application security, security automation or security analysis.*
 
----
+## Proyectos destacados
 
-## 🛡️ Stack Tecnológico
+### [Web Security Scanner](https://github.com/Luis000923/Web_security_scanner) · Python
+Escáner de seguridad web asíncrono (`asyncio` + `aiohttp`) con arquitectura de plugins y orientada a eventos.
+- Rastrea la aplicación y mapea su superficie de ataque (URLs, formularios, parámetros, subdominios).
+- 16 testers de vulnerabilidades (SQLi, XSS, SSRF, XXE, CSRF, IDOR, Path Traversal, entre otros) con niveles de confianza.
+- Protección anti-SSRF en redirecciones, límites de memoria, rate limiting, proxy y redacción de secretos en reportes.
+- Reportes JSON y PDF. Calidad con `pytest`, `ruff`, `mypy`, Docker y GitHub Actions (Python 3.10–3.12).
 
-<div align="center">
+### [Secure Scan](https://github.com/Luis000923/secure-scan) · TypeScript
+Herramienta SAST que analiza código sin ejecutarlo: JavaScript, Python, PHP, Java, C/C++ y C#.
+- Análisis de AST con `@babel/parser`; detección de vulnerabilidades y de código malicioso.
+- Hallazgos mapeados a OWASP Top 10, CWE y MITRE ATT&CK, con reportes HTML por severidad.
+- Pruebas con Jest y ESLint.
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Lenguajes** | `Python` `JavaScript` `Java` |
-| **Frontend** | `React` `TypeScript` |
-| **Backend** | `Node.js` `Django` |
-| **Databases** | `SQL` `MongoDB`  |
-| **Seguridad** | `SAST` `Pentesting` `Análisis de Vulnerabilidades` |
+## Stack
 
-</div>
+| Área | Tecnologías |
+|------|-------------|
+| Automatización | `Python` `asyncio` `aiohttp` `BeautifulSoup` `Bash` |
+| Seguridad | `SAST` `OWASP Top 10` `SQLi` `XSS` `SSRF` `CSRF` `AST` |
+| Web / Backend | `JavaScript` `TypeScript` `Node.js` `Express` `PHP` `MySQL` |
+| Calidad / DevOps | `Git` `GitHub Actions` `Docker` `pytest` `Jest` `ruff` `mypy` `ESLint` |
+| Redes y sistemas | `TCP/IP` `IPv4/IPv6` `Linux` `Windows` |
 
-## 🚀 Proyecto Destacado
+## Contacto
 
-### 🔒 [secure-scan](https://github.com/Luis000923/secure-scan)
-Herramienta de análisis estático de seguridad (SAST) en desarrollo continuo para identificar vulnerabilidades en código fuente. 
+[LinkedIn](https://www.linkedin.com/in/luis-ernesto-gald%C3%A1mez-vides-39a253394) · [Portafolio](https://portafolio.pdsx.org) · [Credly](https://www.credly.com/users/luis-galdamez-vides)
 
-### 👾 [Web_security_scanner](https://github.com/Luis000923/Web_security_scanner)
-Web Security Scanner es una herramienta de línea de comandos diseñada para realizar pruebas básicas de seguridad en sitios web.
-
----
-
-## 📫 Conecta conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ernesto-galdámez-vides-39a253394)
-
-</div>
-
----
-
-<div align="center">
-
-### 👾 *"La mejor defensa es conocer el ataque"* 👾
+> Mis herramientas son para uso ético y autorizado únicamente.
