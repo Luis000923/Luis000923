@@ -3,7 +3,7 @@
 **Analista Junior de Ciberseguridad · Automatización con Python · AppSec**
 *Junior Cybersecurity Analyst · Python Automation · Application Security*
 
-📍 La Libertad, El Salvador · 🎓 Técnico en Redes y Ciberseguridad, UEES (2026) · Diplomado en Ciberseguridad
+🎓 Técnico en Redes y Ciberseguridad, UEES (2026) · Diplomado en Ciberseguridad
 
 ---
 
