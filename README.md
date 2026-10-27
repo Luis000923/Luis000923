@@ -40,6 +40,6 @@ Herramienta SAST que analiza código sin ejecutarlo: JavaScript, Python, PHP, Ja
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/luis-ernesto-gald%C3%A1mez-vides-39a253394) · [Portafolio](https://portafolio.pdsx.org) · [Credly](https://www.credly.com/users/luis-galdamez-vides)
+[LinkedIn](https://www.linkedin.com/in/luis-ernesto-gald%C3%A1mez-vides-39a253394) · [Portafolio](https://portafolio.pdsx.org) · [Credly](https://www.credly.com/users/luis-galdamez-vides) · [HackenProof](https://hackenproof.com/hackers/foker)
 
 > Mis herramientas son para uso ético y autorizado únicamente.
